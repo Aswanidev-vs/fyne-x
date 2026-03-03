@@ -1,11 +1,11 @@
 module fyne.io/x/fyne
 
-go 1.19
+go 1.24.0
 
 require (
 	fyne.io/fyne/v2 v2.6.0
 	github.com/Andrew-M-C/go.jsonvalue v1.4.1
-	github.com/eclipse/paho.mqtt.golang v1.3.5
+	github.com/eclipse/paho.mqtt.golang v1.5.1
 	github.com/gorilla/websocket v1.5.3
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef
@@ -13,7 +13,7 @@ require (
 	github.com/twpayne/go-geom v1.0.0
 	github.com/wagslane/go-password-validator v0.3.0
 	golang.org/x/image v0.24.0
-	golang.org/x/text v0.22.0
+	golang.org/x/text v0.29.0
 )
 
 require (
@@ -43,7 +43,8 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c // indirect
 	github.com/yuin/goldmark v1.7.8 // indirect
-	golang.org/x/net v0.35.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/net v0.44.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
