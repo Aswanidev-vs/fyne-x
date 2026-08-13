@@ -12,8 +12,8 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/twpayne/go-geom v1.0.0
 	github.com/wagslane/go-password-validator v0.3.0
-	golang.org/x/image v0.38.0
-	golang.org/x/text v0.35.0
+	golang.org/x/image v0.41.0
+	golang.org/x/text v0.37.0
 )
 
 require (
