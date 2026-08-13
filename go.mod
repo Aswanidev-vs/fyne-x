@@ -13,7 +13,7 @@ require (
 	github.com/twpayne/go-geom v1.0.0
 	github.com/wagslane/go-password-validator v0.3.0
 	golang.org/x/image v0.38.0
-	golang.org/x/text v0.35.0
+	golang.org/x/text v0.37.0
 )
 
 require (
@@ -43,8 +43,8 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c // indirect
 	github.com/yuin/goldmark v1.7.8 // indirect
-	golang.org/x/net v0.44.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/sys v0.36.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
